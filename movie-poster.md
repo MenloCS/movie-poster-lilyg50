@@ -132,22 +132,22 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+My vision evolved through first just wanting the family with a summer background to the family with a house in a summer background with more specific details.
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+I am most proud of my desision with the focal point placement, as I had Greg, the main character in the middle surrounded by his family.
 
 **What would you do differently next time?**  
-
+I would make the graphics more realistic.
 
 ---
 
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [x] This completed `movie-poster-project.md` file  
+- [x] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [x] At least 5 commits showing your progress  
 
 ---
 
