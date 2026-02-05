@@ -138,7 +138,7 @@ My vision evolved through first just wanting the family with a summer background
 I am most proud of my desision with the focal point placement, as I had Greg, the main character in the middle surrounded by his family.
 
 **What would you do differently next time?**  
-I would make the graphics more realistic.
+I would make the graphics more realistic and also include Rowley and Holly, Greg's friends as well in the poster.
 
 ---
 
