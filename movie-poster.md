@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:** Make me a diary of a wimpy kid: dog days movie poster with colors yellow, summer themed, warm vibes, happy, and the family included
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** Happy, summer vibes 
+- **What didn't work:**  Had the wrong characters and the background for many of the images were completely yellow.
+- **What I'll change for next attempt:** I will make a more specific prompt.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:** Make a poster for the Disney Diary of a Wimpy Kid : Dog Days book by Jeff Kinney with a summer background, warm colors, the family (of the characters), with Greg in the middle.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Summer background
+- **What didn't work:** Included the wrong characters and it was a very cartoon style.
+- **What I'll change for next attempt:** I will make the prompt even more specific by asking to include the real characters (and name the characters) and to make the graphics more realistic. 
 
 ---
 
@@ -89,21 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **My prompt:**  Make a poster for the Disney Diary of a Wimpy Kid : Dog Days book by Jeff Kinney with a summer background, warm colors, the family (of the characters), with Greg in the middle. Include characters, Greg, Rodrick, Rowley, the dog, the Mom, and the Dad. Make graphics more realistic.
+- **What worked:**  Included a summer background
+- **What didn't work:**  Did not include the family and the setting was in a forest.
+- **What I'll change for next attempt:**  I am going to ask Gemini instead.
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Make a poster for the Disney Diary of a Wimpy Kid : Dog Days book by Jeff Kinney with a summer background, warm colors, the family (of the characters), with Greg in the middle. Include characters, Greg, Rodrick, Rowley, the dog, the Mom, and the Dad. Make graphics more realistic and the background of a house on a sunny summer day.
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  Very precise, included Greg in middle with family, with the background of a house on a sunny summer day.
+- **What didn't work:** There were cartoon graphics and less realistic. 
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----
+--- I chose Attempt 4 as my final image, as it was the most precise and closely matched what I wanted the movie poster to look like.
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
